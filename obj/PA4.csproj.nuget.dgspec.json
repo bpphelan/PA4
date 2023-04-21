@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/porterphelan/Documents/MIS321/PA4/PA4.csproj": {}
+  },
+  "projects": {
+    "/Users/porterphelan/Documents/MIS321/PA4/PA4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/porterphelan/Documents/MIS321/PA4/PA4.csproj",
+        "projectName": "PA4",
+        "projectPath": "/Users/porterphelan/Documents/MIS321/PA4/PA4.csproj",
+        "packagesPath": "/Users/porterphelan/.nuget/packages/",
+        "outputPath": "/Users/porterphelan/Documents/MIS321/PA4/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/porterphelan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/porterphelan/Documents/MIS321/PA4/bin/Debug/net7.0/PA4
+/Users/porterphelan/Documents/MIS321/PA4/bin/Debug/net7.0/PA4.deps.json
+/Users/porterphelan/Documents/MIS321/PA4/bin/Debug/net7.0/PA4.runtimeconfig.json
+/Users/porterphelan/Documents/MIS321/PA4/bin/Debug/net7.0/PA4.dll
+/Users/porterphelan/Documents/MIS321/PA4/bin/Debug/net7.0/PA4.pdb
+/Users/porterphelan/Documents/MIS321/PA4/obj/Debug/net7.0/PA4.csproj.AssemblyReference.cache
+/Users/porterphelan/Documents/MIS321/PA4/obj/Debug/net7.0/PA4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/porterphelan/Documents/MIS321/PA4/obj/Debug/net7.0/PA4.AssemblyInfoInputs.cache
+/Users/porterphelan/Documents/MIS321/PA4/obj/Debug/net7.0/PA4.AssemblyInfo.cs
+/Users/porterphelan/Documents/MIS321/PA4/obj/Debug/net7.0/PA4.csproj.CoreCompileInputs.cache
+/Users/porterphelan/Documents/MIS321/PA4/obj/Debug/net7.0/PA4.dll
+/Users/porterphelan/Documents/MIS321/PA4/obj/Debug/net7.0/refint/PA4.dll
+/Users/porterphelan/Documents/MIS321/PA4/obj/Debug/net7.0/PA4.pdb
+/Users/porterphelan/Documents/MIS321/PA4/obj/Debug/net7.0/PA4.genruntimeconfig.cache
+/Users/porterphelan/Documents/MIS321/PA4/obj/Debug/net7.0/ref/PA4.dll
